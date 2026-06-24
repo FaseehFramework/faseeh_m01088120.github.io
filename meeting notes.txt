@@ -1,0 +1,19 @@
+dynamic tall to short sorting of items- research papers check - where does this hypothesis come from - unconstrained problem - how others are solving , come up with a  nice justification why i am doing this - answer should be felt right - 
+
+run by sorting by height and not without for comparison. big statistical difference is good. 
+
+dynamic calculation - better justification 
+
+do literature reviews first 2 weeks. what you are going to test and how.
+various metrics - lighting conditions , toggling z height , occlusion (low,med,high) , yolo cant even read it in occulision , testing and validation upto me , test my decisions
+
+think about what i build , think about what i want to solve , and what it solves
+
+academic justification
+
+mention a couple of (2-3+ papers) : existing solutions and why that is not sufficient. 
+
+how is my different from others? better? how so? what defines better?
+
+Has to be ROBOTICS - so even if you find out better,faster,efficient way to train a yolo model that is part of ai ml but if you correlate that into hardware ,a robot arm and it performs better then that is robotics too.
+
