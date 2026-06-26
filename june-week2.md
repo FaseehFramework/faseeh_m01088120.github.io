@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Week 2: UI Designing
+title: "Week 2: UI Designing"
 parent: June 2026
 nav_order: 2
 ---
